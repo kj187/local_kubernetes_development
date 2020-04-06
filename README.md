@@ -12,3 +12,12 @@ Execute the setup script to install:
 ```
 scripts/setup.sh
 ``` 
+
+### Problems
+
+Set driver 
+https://minikube.sigs.k8s.io/docs/reference/drivers/
+
+````
+minikube config set driver virtualbox
+```
